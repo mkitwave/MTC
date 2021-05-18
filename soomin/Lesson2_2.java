@@ -2,6 +2,7 @@ package Codility;
 
 import java.util.Arrays;
 //OddOccurrencesInArray
+//https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
 //XOR연산으로 푸는 방법도 있으나 아직 이해하지 못했다. 
 public class Lesson2_2 {
 	public static int solution(int[]A) {
