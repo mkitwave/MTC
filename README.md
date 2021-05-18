@@ -44,3 +44,4 @@ MTC는 1일 1코테를 목표로 공부하는 스터디 모임입니다.
 - [류지민](https://github.com/fb808)
 - [류현서](https://github.com/hyeonseo25)
 - [맹수연](https://github.com/MaengSooYeon)
+- [신수민](https://github.com/ssoomin1)
