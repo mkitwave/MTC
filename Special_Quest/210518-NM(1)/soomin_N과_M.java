@@ -5,7 +5,7 @@ package Special_Quest;
 //https://fbtmdwhd33.tistory.com/36
 import java.util.Scanner;
 
-public class N°ú_M {
+public class soomin_N°ú_M {
 	static int M,N;
 	static int arr[];
 	static int check[];
