@@ -1,4 +1,4 @@
-// 두 개 뽑아서 더하기 (테스트케이스 추가)
+// 두 개 뽑아서 더하기
 // https://programmers.co.kr/learn/courses/30/lessons/68644
 
 import java.util.ArrayList;
