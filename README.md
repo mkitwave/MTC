@@ -1,6 +1,13 @@
 # MTC
 모든 공지 업데이트는 노션으로 진행됩니다! Readme에도 주기적으로 업데이트하지만, 노션 확인을 추천드립니다 :)
 https://www.notion.so/wavylog/MTC-99128f199f734930a1018393c0b2601b
+05/23/2021 업데이트
+
+---
+
+'M'irim 'T'****er family 'C'oding test Study
+
+✨ [**깃허브 바로가기**](https://github.com/6h15m/MTC)
 
 [Special Quest](https://www.notion.so/Special-Quest-68cd74235eba48eea5c2690652f2bcfe)
 
@@ -31,7 +38,7 @@ MTC는 1일 1코테를 목표로 공부하는 스터디 모임입니다.
 
 ## 특별 과제 | Special Quest
 
-- 특별 기간에만 진행하는 전체 과제입니다.
+- 특별 기간에만 진행하는 전체 필수 과제입니다.
 - MTC에서 함께 풀어보고 싶은 문제를 총대에게 전송하면, 하루에 한 문제씩 업데이트합니다.
 - Special_Quest 레포지토리에 본인 닉네임을 제목으로 하여 제출합니다.
 - 문제 난이도는 프로그래머스 1~1.5단계 수준으로 선정합니다.
@@ -42,6 +49,10 @@ MTC는 1일 1코테를 목표로 공부하는 스터디 모임입니다.
 - [김나영](https://github.com/Nayoung-apeach)
 - [김지연](https://github.com/jiyeon1117)
 - [류지민](https://github.com/fb808)
-- [류현서](https://github.com/hyeonseo25)
 - [맹수연](https://github.com/MaengSooYeon)
 - [신수민](https://github.com/ssoomin1)
+- [최가빈](https://github.com/choigabin)
+
+## 명예의 전당 | HOF
+
+- [류현서](https://github.com/hyeonseo25)
