@@ -1,7 +1,7 @@
 # MTC
 모든 공지 업데이트는 노션으로 진행됩니다! Readme에도 주기적으로 업데이트하지만, 노션 확인을 추천드립니다 :)
 https://www.notion.so/wavylog/MTC-99128f199f734930a1018393c0b2601b
-05/23/2021 업데이트
+05/24/2021 업데이트
 
 ---
 
@@ -49,10 +49,10 @@ MTC는 1일 1코테를 목표로 공부하는 스터디 모임입니다.
 - [김나영](https://github.com/Nayoung-apeach)
 - [김지연](https://github.com/jiyeon1117)
 - [류지민](https://github.com/fb808)
-- [맹수연](https://github.com/MaengSooYeon)
 - [신수민](https://github.com/ssoomin1)
 - [최가빈](https://github.com/choigabin)
 
 ## 명예의 전당 | HOF
 
 - [류현서](https://github.com/hyeonseo25)
+- [맹수연](https://github.com/MaengSooYeon)
