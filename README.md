@@ -2,7 +2,7 @@
 모든 공지 업데이트는 노션으로 진행됩니다! Readme에도 주기적으로 업데이트하지만, 노션 확인을 추천드립니다 :)
 https://www.notion.so/wavylog/MTC-99128f199f734930a1018393c0b2601b
 
-05/25/2021 업데이트
+06/19/2021 업데이트
 
 ---
 
@@ -11,6 +11,8 @@ https://www.notion.so/wavylog/MTC-99128f199f734930a1018393c0b2601b
 ✨ [**깃허브 바로가기**](https://github.com/6h15m/MTC)
 
 [Special Quest](https://www.notion.so/Special-Quest-68cd74235eba48eea5c2690652f2bcfe)
+
+🔒 **현재 졸업전시 준비로 잠정 중단되었습니다.**
 
 안녕하세요, MTC에 오신 걸 환영합니다!
 
