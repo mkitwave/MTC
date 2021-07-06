@@ -12,7 +12,7 @@ https://www.notion.so/wavylog/MTC-99128f199f734930a1018393c0b2601b
 
 [Special Quest](https://www.notion.so/Special-Quest-68cd74235eba48eea5c2690652f2bcfe)
 
-🔒 **현재  준비로 잠정 중단되었습니다.**
+🔒 **현재 기말고사 준비로 잠정 중단되었습니다.**
 
 안녕하세요, MTC에 오신 걸 환영합니다!
 
